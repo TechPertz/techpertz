@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with Devops. Any resource or a learning opportunity would be appreciated.
 - 💬 Ask me about Cars and Driving or Dumplings. I can go on and on.
 - 📫 How to reach me: Just drop me a 'Hi' at twitter @reetnandy or mail me @ reetnandy@gmail.com
-<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I have always been hesitant towards animes but recently I found a weird obsession towards them after watching Naruto! 
 
 
