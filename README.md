@@ -1,21 +1,14 @@
 ### Hi there 👋
 
-<!--
-**TechPertz/techpertz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on in Solar Industries India Ltd as a Backend Developer Intern.
+- 🌱 I’m currently learning to get acquainted with kafka and cassandra.
+- 👯 I’m looking to collaborate on anything such as Full-Stack / Backend (Python) Web or App dev (Flutter) projects, Python Automation & Testing Projects, etc
+- 🤔 I’m looking for help with Devops. Any resource or a learning opportunity would be appreciated.
+- 💬 Ask me about Cars and Driving or Dumplings. I can go on and on.
+- 📫 How to reach me: Just drop me a 'Hi' at twitter @reetnandy or mail me @ reetnandy@gmail.com
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: I have always been hesitant towards animes but recently I found a weird obsession towards them after watching Naruto! 
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![Reet's github stats](https://github-readme-stats.vercel.app/api?username=techpertz&show_icons=true&count_private=true)
 
