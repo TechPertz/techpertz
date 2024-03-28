@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on in Solar Industries India Ltd as a Backend Developer Intern.
-- 🌱 I’m currently learning to get acquainted with kafka and cassandra.
+- 🔭 I’m currently searching for Software Development Internships for Summer 2024 in the United States of America.
+- 🌱 I’m currently learning to get acquainted with Cloud Services using AWS and learn more on distributed Computing using Infrastructure level Cloud and Big Data Technologies.
 - 👯 I’m looking to collaborate on anything such as Full-Stack / Backend (Python) Web or App dev (Flutter) projects, Python Automation & Testing Projects, etc
 - 🤔 I’m looking for help with Devops. Any resource or a learning opportunity would be appreciated.
 - 💬 Ask me about Cars and Driving or Dumplings. I can go on and on.
