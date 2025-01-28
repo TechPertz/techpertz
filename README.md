@@ -1,23 +1,33 @@
-### Hi there 👋
+# 👨‍💻 Reet Nandy's GitHub Portfolio
 
-- 🔭 I’m currently searching for Software Development Internships for Summer 2024 in the United States of America.
-- 🌱 I’m currently learning to get acquainted with Cloud Services using AWS and learn more on distributed Computing using Infrastructure level Cloud and Big Data Technologies.
-- 👯 I’m looking to collaborate on anything such as Full-Stack / Backend (Python) Web or App dev (Flutter) projects, Python Automation & Testing Projects, etc
-- 🤔 I’m looking for help with Devops. Any resource or a learning opportunity would be appreciated.
-- 💬 Ask me about Cars and Driving or Dumplings. I can go on and on.
-- 📫 How to reach me: Just drop me a 'Hi' at twitter @reetnandy or mail me @ reetnandy@gmail.com
-- ⚡ Fun fact: I have always been hesitant towards animes but recently I found a weird obsession towards them after watching Naruto! 
+Hi, I’m **Reet Nandy**, a **Software + AI Engineer** with expertise in **distributed systems**, **cloud infrastructure**, and **machine learning**. I specialize in **system optimization**, **fault-tolerant microservices**, and **DevOps practices**, along with developing and deploying **AI models**.
 
+🔍 Actively searching for **SDE / AI Spring '25 and Full-Time opportunities starting May 2025.**
 
-![Reet's github stats](https://github-readme-stats.vercel.app/api?username=techpertz&show_icons=true&count_private=true)
+---
 
-![Reet's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techpertz&exclude_repo=dt_laurel_sprout,dt_laurel_sprout_oss,vt_laurel_sprout,vt_laurel_sprout_oss,shrp_xiaomi_laurel_sprout,oddlyspaced.github.io,gims-dump)
+## 🛠️ Technical Skills
+- **Programming Languages:** Python, C++, Java, JavaScript, TypeScript, Flutter  
+- **Frontend/Backend:** React.js, Next.js, Tailwind CSS, Django, Flask, FastAPI, Node.js, Spring Boot  
+- **AI/ML:** TensorFlow, PyTorch, Scikit-learn, Model Deployment, AI Workflow Automation, VectorDB  
+- **Cloud/DevOps:** AWS (Lambda, EC2, S3, SageMaker, API Gateway), GCP, Azure, Docker, Kubernetes, Jenkins, CI/CD Pipelines  
+- **Databases & APIs:** PostgreSQL, MongoDB, DynamoDB, Kafka, PineconeDB, ChromaDB, REST, GraphQL  
 
-![Reet's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=techpertz&layout=compact&theme=github-light)
+---
 
-[![wakatime](https://wakatime.com/badge/user/3abbf128-ade1-48db-97ab-0c0846972d05.svg)](https://wakatime.com/@3abbf128-ade1-48db-97ab-0c0846972d05)
+## 📊 GitHub Stats
+![Reet's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=techpertz&layout=compact&theme=github-light)  
+[![Wakatime Badge](https://wakatime.com/badge/user/3abbf128-ade1-48db-97ab-0c0846972d05.svg)](https://wakatime.com/@3abbf128-ade1-48db-97ab-0c0846972d05)
 
-Viewer Count :
- ![Visitor Count](https://profile-counter.glitch.me/{techpertz}/count.svg)
+**Viewer Count:**  
+![Visitor Count](https://profile-counter.glitch.me/{techpertz}/count.svg)  
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=techpertz&theme=github-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+---
+
+## 🔗 Links
+- **Portfolio:** [reetnandy.com](https://www.reetnandy.com)  
+- **LinkedIn:** [linkedin.com/in/reetnandy](https://www.linkedin.com/in/reetnandy)  
+- **Email:** [reet.nandy@nyu.edu](mailto:reet.nandy@nyu.edu)  
+- **GitHub:** [github.com/techpertz](https://github.com/techpertz)  
