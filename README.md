@@ -4,6 +4,8 @@ Hi, I’m **Reet Nandy**, a **Software + AI Engineer** with expertise in **distr
 
 🔍 Actively searching for **SDE / AI Spring '25 and Full-Time opportunities starting May 2025.**
 
+### **Checkout my Pinned Projects!**
+
 ---
 
 ## 🛠️ Technical Skills
