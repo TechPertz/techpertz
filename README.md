@@ -17,10 +17,6 @@ Hi, I’m **Reet Nandy**, a **Software + AI Engineer** with expertise in **distr
 
 ---
 
-## 📊 GitHub Stats
-![Reet's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=techpertz&layout=compact&theme=github-light)  
-[![Wakatime Badge](https://wakatime.com/badge/user/3abbf128-ade1-48db-97ab-0c0846972d05.svg)](https://wakatime.com/@3abbf128-ade1-48db-97ab-0c0846972d05)
-
 **Viewer Count:**  
 ![Visitor Count](https://profile-counter.glitch.me/{techpertz}/count.svg)  
 
