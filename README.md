@@ -2,6 +2,8 @@
 
 Hi, I’m **Reet Nandy**, a **Software + AI Engineer** with expertise in **distributed systems**, **cloud infrastructure**, and **machine learning**. I specialize in **system optimization**, **fault-tolerant microservices**, and **DevOps practices**, along with developing and deploying **AI models**.
 
+**Currently Building Projects** involving Multi-Modal AI Agents with LLMs, vision models, and Advanced RAG pipelines.
+
 🔍 Actively searching for **SDE / AI Spring '25 and Full-Time opportunities starting May 2025.**
 
 ### **Checkout my Pinned Projects!**
