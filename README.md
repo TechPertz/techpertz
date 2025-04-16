@@ -4,7 +4,7 @@ Hi, I’m **Reet Nandy**, a **Software + AI Engineer** with expertise in **distr
 
 **Currently Building Projects** involving Multi-Modal AI Agents with LLMs, vision models, and Advanced RAG pipelines.
 
-🔍 Actively searching for **SDE / AI Spring '25 and Full-Time opportunities starting May 2025.**
+🔍 Actively searching for **SDE / AI Full-Time opportunities starting May 2025.**
 
 ### **Checkout my Pinned Projects!**
 
